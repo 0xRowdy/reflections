@@ -1,0 +1,34 @@
+Question 1
+The ability to view a difference between two files reduces the amount of time
+that I would have to spend looking for a bug.
+This could provide useful when pushing my code to a repo that then creates a bug
+or checking what was changed in others code to further trouble shoot if my
+component was working previously.
+
+Question 2
+The ability to revert back to a previous version of a program can be incredibly
+valuable as a programer. It will allow you to revert back to a functioning
+version if your changed break the program.
+
+Question 3
+Pros and Cons exist for the ability to create manual commits in git. I believe
+that if you are pro-active as a developer you should not run into issues with
+having to few commits.
+
+Question 4
+I can see the appeal when saving multiple files at the same time in git.  One
+may be saving a class that extends to different files in a program or saving the
+multiple files that make up a website. If git did not have this feature people
+would forget to save one of the files and break their program, causing errors,
+time troubleshooting and waisted dev time.
+
+Question 5
+with git log you have the ability to search out and find old commits that may
+have code that was deleted by mistake. The ability to use git diff can help
+you find the specific changes between two commits on the same git repo. This
+can be useful when you are looking to bring old code back into an enhansment.
+
+Question 6
+With the ability to revert code back to a previous version we don't have to
+worry much in the development process. Developers are able to find bugs and
+isolate code that may have caused problems or possibly been deleted by mistake.
