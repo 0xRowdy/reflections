@@ -1,3 +1,7 @@
 Question 1
 When you initialize a repository you need to type git init. This creates the
 git file for the different commits or versions to be stored.
+
+Question 2
+A staging area is different than a working directory because you have the
+ability to see the files you want to add to the main branch.
