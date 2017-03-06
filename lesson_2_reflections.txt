@@ -5,3 +5,16 @@ git file for the different commits or versions to be stored.
 Question 2
 A staging area is different than a working directory because you have the
 ability to see the files you want to add to the main branch.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area allows users to make a logical change and monitor. Once the
+changes have been added to the staging area you are able to commit or back out
+of the changes that have been made.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches are helpful if you want to do things that are a potential risk or
+could change the functionality of the program. Things like creating an easy
+mode or changing the language of the program. 
