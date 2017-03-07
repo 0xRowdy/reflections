@@ -29,4 +29,11 @@ the diagram the way we do?
 Merging two branches together ensures that all of the areas of a new feature
 are merged back with the working code found in the master branch. It is easy
 for us to visualize this when we diagram it out. Otherwise, we may have issues
-trying to imagine how a branch will merge back into another. 
+trying to imagine how a branch will merge back into another.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+The pros about doing merges manually is that you have the ability to resolve
+conflicts. This allows the developers to ensure the the most efficient and
+working code. If automatic merging was in place then if would be difficult to
+dictate what code is used.
