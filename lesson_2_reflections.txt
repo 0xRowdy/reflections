@@ -22,3 +22,11 @@ How do the diagrams help you visualize the branch structure?
 Diagrams are helpful because they show how different branches interact with the
 Master. There are all kinds of different branches that one can work on but you
 may want to merge them back together.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches together ensures that all of the areas of a new feature
+are merged back with the working code found in the master branch. It is easy
+for us to visualize this when we diagram it out. Otherwise, we may have issues
+trying to imagine how a branch will merge back into another. 
