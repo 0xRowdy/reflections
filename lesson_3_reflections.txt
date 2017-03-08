@@ -1,17 +1,19 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your
+work local?
 
-It is a good idea to use a remote repository for multiple reasons. Technology is not
-perfect and your hard drive may fail. If that happens you will lose all of your hard
-work coding a new program. When the file is stored on a remote repository you have
-the ability to restore it from another machine if yours fails. Additionaly if you
-want to work on the project with others they you both have the ability to work on
-features indepentently and then merge them together. This is nice if you and your
-co-developers are in different geographic locations.
+It is a good idea to use a remote repository for multiple reasons. Technology
+is not perfect, and your hard drive may fail. If that happens, you will lose all
+of your hard work coding a new program. When the file is stored in a remote
+repository, you have the ability to restore it from another machine if yours
+fails. Additionally, if you want to work on the project with others, then you
+both have the potential to work on features independently and then merge them
+together. This is nice if you and your co-developers are in different geographic
+locations.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-You want to have control of of what code is stored on your local machine when
+You want to have control of what code is stored on your local machine when
 working on a project. If pulls automatically happened then code from another
 developer could be brought down to your local machine and mess up what you
 are working on.
@@ -19,9 +21,16 @@ are working on.
 Describe the differences between forks, clones, and branches. When would you use
 one instead of another?
 
-Forks are very similar to branches but with a few added features. It exists on
+Forks are very similar to branches but with a few added features. It exists in
 a remote repository like github. This means you have more control over who can
 fork you repo or who can issue a request to push data back. Clones are just a
 copy of a code base that can be done computer to computer or with a service like
-git. Branches are a way to keep seperate features on your local machine and
+git. Branches are a way to keep separate features on your local machine and
 check them back in once the feature is complete.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You are able to stay up-to-date for any new changes, features or improvements
+being added. It is easy to commit/push your changes to a remote repository if
+your local copy has changes that are more up to date.
