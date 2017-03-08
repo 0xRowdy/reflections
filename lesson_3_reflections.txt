@@ -1,0 +1,9 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+It is a good idea to use a remote repository for multiple reasons. Technology is not 
+perfect and your harddrive may fail. If that happens you will lose all of your hard
+work coding a new program. When the file is stored on a remote repository you have
+the ability to restore it from another machine if yours fails. Additionaly if you
+want to work on the project with others they you both have the ability to work on
+features indepentently and then merge them together. This is nice if you and your 
+co-developers are in different geographic locations.
